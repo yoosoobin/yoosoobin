@@ -16,4 +16,8 @@ Here are some ideas to get you started:
 --> 🥇
 🥈
 👽
+
+
 <a href='https://ysbstudy.tistory.com/'>blog</a>
+
+![yoosoobin's github stats](https://github-readme-stats.vercel.app/api?username=yoosoobin&show_icons=true)
